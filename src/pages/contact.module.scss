@@ -1,0 +1,80 @@
+.TOP3 {
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    h1 {
+        font-size: 2.8125rem;
+        letter-spacing: 0.0625rem;
+        word-spacing: 0.125rem;
+        text-transform: capitalize;
+        color: rgb(114, 41, 41);
+    }
+    p {
+        font-family: sofia;
+        font-size: 2.1875rem;
+        text-transform: capitalize;
+        margin-top: 2.55rem;
+        word-spacing: -0.0625rem;
+        letter-spacing: 0.0625rem;
+        line-height: 3.15rem;
+    }
+}
+
+
+
+
+@media(max-width: 1000px) {
+    .TOP3 {
+        margin-top: 1.5rem;
+    }
+}
+@media(max-width: 900px) {
+    .TOP3 {
+        margin-top: 2.5rem;
+    }
+}
+@media(max-width: 800px) {
+    .TOP3 {
+        margin-top: 2.7rem;
+    }
+}
+@media(max-width: 700px) {
+    .TOP3 {
+        margin-top: 3.75rem;
+    }
+}
+@media(max-width: 600px) {
+    .TOP3 {
+        margin-top: 6.5rem;
+    }
+}
+@media(max-width: 500px) {
+    .TOP3 {
+        margin-top: 8.525rem;
+    }
+}
+@media(max-width: 400px) {
+    .TOP3 {
+        margin-top: 6.065rem;
+    }
+}
+@media(max-width: 350px) {
+    .TOP3 {
+        margin-top: 8.775rem;
+    }
+}
+@media(max-width: 300px) {
+    .TOP3 {
+        margin-top: 8.125rem;
+    }
+}
+@media(max-width: 200px) {
+    .TOP3 {
+        margin-top: 18.5rem;
+    }
+}
+@media(max-width: 100px) {
+    .TOP3 {
+        margin-top: 15.65rem;
+    }
+}

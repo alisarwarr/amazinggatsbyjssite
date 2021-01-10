@@ -1,0 +1,92 @@
+.TOP4 {
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    h1 {
+        font-size: 2.8125rem;
+        letter-spacing: 0.0625rem;
+        word-spacing: 0.125rem;
+        text-transform: capitalize;
+        color: rgb(114, 41, 41);
+        margin-left: 0.85rem;
+    }
+    ol {
+        list-style-type: none;
+        margin-top: 0.75rem;
+        margin-left: -0.325rem;
+        display: flex;
+        align-items: center;
+        margin-left: -1.74rem;
+    }
+    li {
+        margin: 1rem 0;
+        display: inline;
+        margin-left: 0.9375rem;
+        a {
+            background-color: #f4f4f4;
+            color: #000000;
+            display: block;
+            padding: 1rem;
+            text-decoration: none;
+            border-radius: 5px;
+            border: 2px solid gray;
+            width: 21.25rem;
+            display: inline-block;
+            &:hover {
+                background-color: #e4e4e4;
+            }
+        }
+        h2 {
+            font-family: sofia;
+            font-size: 1.5rem;
+            font-weight: normal;
+            letter-spacing: 0.125rem;
+            word-spacing: -0.0625rem;
+        }
+        p {
+            color: #777777;
+            font-size: 0.8rem;
+            font-style: italic;
+            font-size: 2.1875rem;
+            margin-top: 3.4375rem;
+            word-spacing: -0.125rem;
+            letter-spacing: 0.125rem;
+        }
+    }
+}
+
+
+
+@media(max-width: 530px) {
+    .TOP4 {
+        margin-top: 1.5rem;
+        li {
+            a {
+                margin-top: 1rem;
+            }
+        }
+    }
+}
+@media(max-width: 450px) {
+    .TOP4 {
+        ol {
+            flex-direction: column;
+            margin-left: 0.15rem;
+            li {
+                a {
+                    margin-top: -0.88rem;
+                }
+            }    
+        }
+    }
+}
+@media(max-width: 250px) {
+    .TOP4 {
+        margin-top: 8.125rem;
+    }
+}
+@media(max-width: 100px) {
+    .TOP4 {
+        margin-top: 15.65rem;
+    }
+}

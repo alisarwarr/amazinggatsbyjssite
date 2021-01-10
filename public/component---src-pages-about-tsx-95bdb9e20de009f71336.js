@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"2l/u":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),u=n("soUV"),c=n("9u5D"),o=n("hucp"),r=n.n(o);t.default=function(){return l.a.createElement(u.a,null,l.a.createElement(c.a,{title:"About"}),l.a.createElement("div",{className:r.a.TOP2},l.a.createElement("h1",null," ABOUT "),l.a.createElement("p",null,' "our developers lived in Pakistan" ')))}},hucp:function(e,t,n){e.exports={TOP2:"about-module--TOP2--36xq3"}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-95bdb9e20de009f71336.js.map

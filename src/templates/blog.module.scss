@@ -1,0 +1,94 @@
+.TOP5 {
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    h1 {
+        font-size: 2.8125rem;
+        letter-spacing: 0.0625rem;
+        word-spacing: 0.125rem;
+        text-transform: capitalize;
+        color: rgb(114, 41, 41);
+    }
+    p#x {
+        font-family: sofia;
+        font-size: 2.1875rem;
+        margin-top: 3.4375rem;
+        word-spacing: -0.1875rem;
+        letter-spacing: 0.125rem;
+        line-height: 2.75rem;
+    }
+    p#y {
+        color: #777777;
+        font-size: 0.8rem;
+        font-style: italic;
+        font-size: 1.875rem;
+        margin-top: 3.4375rem;
+        word-spacing: -0.125rem;
+        letter-spacing: 0.125rem;
+        margin-top: -0.125rem;
+        line-height: 3.15rem;
+    }
+    img {
+        border: 3px dashed rgb(114, 41, 41);
+        border-radius: 1.25rem;
+    }
+}
+
+
+
+
+@media(max-width: 1000px) {
+    .TOP5 {
+        margin-top: 1.5rem;
+    }
+}
+@media(max-width: 900px) {
+    .TOP5 {
+        margin-top: 2.5rem;
+    }
+}
+@media(max-width: 800px) {
+    .TOP5 {
+        margin-top: 2.7rem;
+    }
+}
+@media(max-width: 700px) {
+    .TOP5 {
+        margin-top: 3.75rem;
+    }
+}
+@media(max-width: 600px) {
+    .TOP5 {
+        margin-top: 6.5rem;
+    }
+}
+@media(max-width: 500px) {
+    .TOP5 {
+        margin-top: 8.525rem;
+    }
+}
+@media(max-width: 400px) {
+    .TOP5 {
+        margin-top: 6.065rem;
+    }
+}
+@media(max-width: 350px) {
+    .TOP5 {
+        margin-top: 8.775rem;
+    }
+}
+@media(max-width: 300px) {
+    .TOP5 {
+        margin-top: 8.125rem;
+    }
+}
+@media(max-width: 200px) {
+    .TOP5 {
+        margin-top: 18.5rem;
+    }
+}
+@media(max-width: 100px) {
+    .TOP5 {
+        margin-top: 15.65rem;
+    }
+}

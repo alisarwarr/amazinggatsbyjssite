@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"0Aie":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n.n(a),l=n("soUV"),o=n("9u5D"),u=n("ZPPm"),r=n.n(u);t.default=function(){return c.a.createElement(l.a,null,c.a.createElement(o.a,{title:"Contact"}),c.a.createElement("div",{className:r.a.TOP3},c.a.createElement("h1",null," CONTACT "),c.a.createElement("p",null,' "you can contact our developers" ')))}},ZPPm:function(e,t,n){e.exports={TOP3:"contact-module--TOP3--2XRHe"}}}]);
+//# sourceMappingURL=component---src-pages-contact-tsx-04616138a4c693ab873a.js.map
